@@ -1,6 +1,7 @@
-// const ApiRootUrl = 'http://localhost:8360/api/';
+const ApiRootUrl = 'http://wutongye88.com/api/';
+// const ApiRootUrl = 'http://124.222.214.93:8360/api/';
 // const ApiRootUrl = 'http://192.168.0.108:8360/api/';
-const ApiRootUrl = 'https://www.guxiaoling.com:8466/api/';
+// const ApiRootUrl = 'https://www.guxiaoling.com:8466/api/';
 
 module.exports = {
     // 登录
